@@ -1,0 +1,18 @@
+pour ajouter une video vous devez la poser sur data/video
+ensuite modifier le directoire dans le code principale ( CODE_DETECTION_SANS_GARDER_LA_TRACE / CODE_DETECTION_FINALE )
+et c bon , maintenant , le output sera dans le dossier /data/video ) 
+le code contient des commentaire.
+
+lancer code_detection_finale.py et c bon 
+
+
+ce projet a ete fait par le binome 
+
+GUENAOUI AMINE,
+NAIT KACI MOHAMED AGHILES,
+
+MASTER INFORMATIQUE VISUELLE USTHB
+Departement ELECTRONIQUE ET INFORMATIQUE 
+S3 2020/2021
+MODULE TRAITEMENT D'IMAGES ET VIDEOS
+.

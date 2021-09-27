@@ -1,0 +1,18 @@
+to add a video you must put it on the data/video folder
+then modify the directory in the main code ( CODE_DETECTION_SANS_GARDER_LA_TRACE / CODE_DETECTION_FINALE )
+and it's ok, now the output will be in the folder /data/video ) 
+the code contains comments.
+
+launch code_detection_finale.py and watch the results ( the output video will be stored
+ in the data/video under the name result)
+
+This was Done by 
+
+GUENAOUI AMINE,
+NAIT KACI MOHAMED AGHILES,
+
+MASTER VISUAL COMPUTING 
+University Of Science And Technology Houari Boumedien
+Department of ELECTRONICS AND COMPUTING 
+S3 2020/2021
+Subject IMAGE AND VIDEO PROCESSING
